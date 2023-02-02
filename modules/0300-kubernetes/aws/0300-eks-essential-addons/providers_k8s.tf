@@ -1,0 +1,1 @@
+../../../_common/k8s/providers_k8s.tf

@@ -1,0 +1,1 @@
+../../../_common/variables/variables_k8s.tf
