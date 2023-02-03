@@ -1,0 +1,1 @@
+TBD: Document the expectations of Base Infra Module across clouds
